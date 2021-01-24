@@ -39,6 +39,7 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
+    linkedin: https://www.linkedin.com/in/d-r87
     twitter: https://twitter.com/Dan_R87
     github: https://github.com/Daro05
 
