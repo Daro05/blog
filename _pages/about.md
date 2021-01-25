@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="https://github.com/Daro05/blog/blob/master/_pages/dan_about.jpeg" width="350">
+<img src="https://github.com/Daro05/blog/blob/master/_pages/dan_about.jpeg" width="250">
 
 
 Este es un sitio donde posteo alguno de mis análisis y trabajos, Mi intención es colaborar a la discusión de lo que implica el análisis de datos hoy en día, así como la contribución de la divulgación de estos temas para todos en especial para la comunidad Latinoamericana. 
