@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](dan_about.jpeg=150x)
+![](dan_about.jpeg | width=120)
 
 Este es un sitio donde posteo alguno de mis análisis y trabajos, Mi intención es colaborar a la discusión de lo que implica el análisis de datos hoy en día, así como la contribución de la divulgación de estos temas para todos en especial para la comunidad Latinoamericana. 
 
