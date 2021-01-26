@@ -8,8 +8,8 @@ Este es un sitio donde posteo alguno de mis análisis y trabajos. Mi intención 
 
 Aprendí a codear tanto en la universidad como con cursos online, el StackOverflow de cada día, prueba y error. Cada proyecto me ayuda a crecer y mejorar mis habilidades. Mis herramientas principal de trabajo son SQL, las paqueterías de Python como:
 
--[pandas](https://pandas.pydata.org)
--[geopandas](https://geopandas.org)
+* -[pandas](https://pandas.pydata.org)
+* -[geopandas](https://geopandas.org)
 -[pysal](https://pysal.org)
 -[scikit-learn](https://scikit-learn.org)
 -[numpy](https://numpy.org)
