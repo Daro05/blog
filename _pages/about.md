@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-![me](https://github.com/Daro05/blog/blob/master/_pages/dan_about.jpeg)
-<img width="100">
+Este es un sitio donde posteo alguno de mis análisis y trabajos. Mi intención es la divulgación de estos temas para la comunidad datera.
 
-Este es un sitio donde posteo alguno de mis análisis y trabajos, Mi intención es colaborar a la discusión de lo que implica el análisis de datos hoy en día, así como la contribución de la divulgación de estos temas para todos en especial para la comunidad Latinoamericana. 
-
-Aprendí a codear tanto con cursos online como en sitio, el StackOverflow de cada día, prueba y error. Cada proyecto me ayuda a crecer y mejorar mis habilidades. Mis herramientas principal de trabajo son SQL, las paqueterías de Python como:
+Aprendí a codear tanto en la universidad como con cursos online, el StackOverflow de cada día, prueba y error. Cada proyecto me ayuda a crecer y mejorar mis habilidades. Mis herramientas principal de trabajo son SQL, las paqueterías de Python como:
 
 -[pandas](https://pandas.pydata.org)
 -[geopandas](https://geopandas.org)
